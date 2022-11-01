@@ -16,11 +16,11 @@ cd MxPlayerUnlocker
 ```
 ပြီးရင် script ကို execute permission ပေးဖို့အောက်ပါ command ကိုရိုက်ပါ။
 ```
-chmod +x mxplayerunlocker.sh
+chmod +x mxplayerunlock.sh
 ```
 ဒါဆိုရင်အောက်က command ရိုက်ပြီး script ကိုစ run လို့ရပါပြီ။
 ```
-./mxplayerunlocker.sh
+./mxplayerunlock.sh
 ```
 ပြိးရင်ခနစောင့်လိုက်ပါ။ဒီနေရမှာ video အနည်းများပေါ်မူတည်ပြီးအနည်းငယ်ကြာပါလိမ့်မယ်။
 Mission completed လို့ပြသွားရင်တော့ Mx player ထဲမှာ MxPlayerPrivateFolder ဆိုတဲ့နာမည်နဲ့ folder အသစ်တစ်ခုရောက်နေပါလိမ့်မယ်။
