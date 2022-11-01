@@ -8,5 +8,5 @@ pkg install git
 ```
 ပြီးရင် script ကိုကူးထည့်ဖို့အောက်ပါ command ကိုရိုက်ပါ။
 ```
-git clone
+git clone https://github.com/aungnyeinchan351/MxPlayerUnlocker/
 ```
